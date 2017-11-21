@@ -1,0 +1,23 @@
+{
+  "name": "lc-camel-to-hyphen",
+  "version": "1.0.0",
+  "description": "Transfer word from camel case to hyphen case in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazycoffee/lc-camel-to-hyphen.git"
+  },
+  "keywords": [
+    "camel",
+    "case"
+  ],
+  "author": "JamesYin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazycoffee/lc-camel-to-hyphen/issues"
+  },
+  "homepage": "https://github.com/lazycoffee/lc-camel-to-hyphen#readme"
+}
