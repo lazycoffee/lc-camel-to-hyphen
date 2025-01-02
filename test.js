@@ -1,5 +1,10 @@
-const camelToHyphen = require('./index');
+const camelToHyphen = require("./index");
 
-let testCase = ['FirstUpperCase', 'standerCamelCase','thisIsASingleLetterCase'];
+let testCase = [
+    "FirstUpperCase",
+    "standerCamelCase",
+    "thisIsASingleLetterCase",
+    "XMLParser",
+];
 
-testCase.forEach(text=>console.log(text + ' -> ' + camelToHyphen(text)));
+testCase.forEach((text) => console.log(text + " -> " + camelToHyphen(text)));
